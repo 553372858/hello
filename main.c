@@ -11,6 +11,5 @@ int main(int argc, const char *argv[])
 	int a = 1;
 	int b = 2;
 	max(a, b);
-	printf()
 	return 0;
 }
